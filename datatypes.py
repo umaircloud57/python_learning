@@ -12,13 +12,10 @@ print(type(values))
 
 
 
-def sum(val1,val2):
-    return val1 + val2
-
-value1 = 50
-value2 = 10
-sum1 = value1 + value2
-print( sum1)
 
 
-print(sum(30,100))
+prices = (10.99, 5.99, 8.49,10)
+total = sum(prices)
+print(total)
+ 
+print(sum([2, 10]))
