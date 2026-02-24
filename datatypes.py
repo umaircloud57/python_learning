@@ -14,8 +14,8 @@ print(type(values))
 
 
 
-prices = (10.99, 5.99, 8.49,10)
-total = sum(prices)
-print(total)
+
  
-print(sum([2, 10]))
+print(sum([2,30,40,50,500,1000,2300,10,]))
+
+print(sum([10,202,300]))
