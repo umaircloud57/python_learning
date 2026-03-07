@@ -2,18 +2,28 @@
 # for list in list :
 #     print(list)
 
-
-data=("ali,ahmed,")
-for data in data :
-    print (data)
-
-
-
-
-
-# for nums in [12,2, 5,2,6]:
+# for nums in [1,2,3,4,]:
 #     print(nums)
 
+# data=("ali,ahmed,")
+# for data in data :
+#     print (data)
 
-for characters in "we love pakistan " :
-    print(characters)
+
+# total = 0
+
+# for i in range(2):
+#     num = int(input("Enter a number to add: "))
+#     total += num
+
+# print("Trnums)
+
+
+# for characters in "we love pakistan " :
+#     print(characters)
+
+num=list(range(1,20))
+print(num)
+
+# seq= range (10,50,)
+# print(seq)
